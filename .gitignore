@@ -5,3 +5,6 @@ env/
 
 # dataset
 /data/ready_full/
+
+#pycache
+__pycache__/
